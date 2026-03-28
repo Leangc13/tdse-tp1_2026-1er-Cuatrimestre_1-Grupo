@@ -5,5 +5,4 @@
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
 | 1034756 | Garcia Caneva Leandro | | Semana 04 |
-| :----- | :--------------------- | :------: | :-------: |
 | 104323 | Vargas Joaquin | | Semana 04 |
