@@ -1,4 +1,4 @@
-<img width="785" height="464" alt="image" src="https://github.com/user-attachments/assets/66fbf02c-375b-4bbb-a692-facf2566ce1c" />El sensor será representado con un botón el cual posee 4 estados UP, DOWN, Falling, y Rising. Además cuenta con una variable contadora
+El sensor será representado con un botón el cual posee 4 estados UP, DOWN, Falling, y Rising. Además cuenta con una variable contadora
 llamada timer.
 Un Sensor (un solo botón) del tipo binario genera 2 (dos) Eventos (reflejan el valor binario) asociados a su Posición y
 al menos 2 (dos) Acciones (reflejan que hubo un cambio de Posición del botón)
