@@ -7,7 +7,7 @@ El módulo Actuator se encarga de ejecutar las acciones indicadas por el módulo
 EV_ACT_LED_ON  
 EV_ACT_LED_OFF  
 
-### Eventos entrada
+### Eventos salida
 
 EV_LED_XX_ON  
 EV_LED_XX_OFF 
