@@ -8,19 +8,19 @@ transiciones (trigger [guard] / effect).
 
 Convención de identificadores
 
-Hay 2 eventos entrada:
-event => EV_BTN_XX_UP 
-event => EV_BTN_XX_DOWN
+Hay 2 eventos entrada:  
+event => EV_BTN_XX_UP  
+event => EV_BTN_XX_DOWN  
 
-Hay 4 estados
-state => ST_BTN_XX_UP
-state => ST_BTN_XX_DOWN
-state => ST_BTN_XX_FALLING
-state => ST_BTN_XX_RISING
+Hay 4 estados  
+state => ST_BTN_XX_UP  
+state => ST_BTN_XX_DOWN  
+state => ST_BTN_XX_FALLING  
+state => ST_BTN_XX_RISING  
 
-Hay dos eventos de salida:
-signal => EV_SYS_XX_DOWN
-signal => EV_SYS_XX_UP
+Hay dos eventos de salida:  
+signal => EV_SYS_XX_DOWN  
+signal => EV_SYS_XX_UP  
 
 Un atributo de modelo botón
 timer => tick // 0, DEL_BTN_XX_MAX
