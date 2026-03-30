@@ -3,7 +3,8 @@
 El módulo System se encarga de procesar los eventos generados por el sensor (botón) y envia la accion a tomar por el módulo del Actuador. En esta implementación simplificada, el sistema utiliza únicamente un pulsador como entrada y un LED como salida, representando la barrera.
 
 ### Eventos de entrada
-EV_SYS_XX_DOWN 
+
+EV_SYS_XX_DOWN  
 EV_SYS_XX_UP
 
 Estos eventos son generados por el módulo Sensor.
