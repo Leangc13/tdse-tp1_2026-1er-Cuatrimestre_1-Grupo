@@ -22,3 +22,6 @@ ST_ACT_LED_BLINK
 ### Atributo 
 
 modelo botón timer => tick // 0, DEL_LED_XX_MAX
+
+<img width="700"  alt="Actuator Statechart – State Transition Table" src="https://github.com/user-attachments/assets/d5788290-072f-4280-b87e-e59b08d78602" />
+
