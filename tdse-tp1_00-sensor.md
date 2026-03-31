@@ -25,6 +25,6 @@ signal => EV_SYS_XX_UP
 Un atributo de modelo botón
 timer => tick // 0, DEL_BTN_XX_MAX
 
-<img height="592" alt="sensor statechart-state_transition_table" src="https://github.com/user-attachments/assets/6d5bab14-7788-400c-b6ff-96798d80daba" />
+<img width="700" alt="sensor statechart-state_transition_table" src="https://github.com/user-attachments/assets/6d5bab14-7788-400c-b6ff-96798d80daba" />
 
 
