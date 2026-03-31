@@ -27,5 +27,3 @@ timer => tick // 0, DEL_BTN_XX_MAX
 
 
 
-<img width="668" height="400" alt="image" src="https://github.com/user-attachments/assets/63594a43-d94e-4db4-a18f-440d5cb956ca" />
-
