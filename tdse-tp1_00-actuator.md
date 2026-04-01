@@ -23,4 +23,7 @@ ST_ACT_LED_BLINK
 
 modelo botón timer => tick // 0, DEL_LED_XX_MAX
 
+<img width="669" height="299" alt="image" src="https://github.com/user-attachments/assets/cf080dfa-e8f2-49fd-8c83-15664609a7f4" />
+
+
 
