@@ -23,5 +23,6 @@ ST_SYS_LED_OFF
 
 El sistema comienza en el estado ST_SYS_LED_OFF, con la barrera cerrada (LED apagado).Cuando se recibe el evento EV_SYS_BTN_DOWN, el sistema genera la acción de apertura de barrera y transiciona al estado ST_SYS_LED_ON.Cuando se recibe el evento EV_SYS_BTN_UP, el sistema genera la acción de cierre de barrera y vuelve al estado inicial ST_SYS_LED_OFF.  
 
-<img width="700" alt="System Statechart – State Transition Table" src="https://github.com/user-attachments/assets/c09e3dfc-21b1-4c1d-9705-13618a08ea7e" />
+<img width="844" height="186" alt="image" src="https://github.com/user-attachments/assets/8d84b11e-0dab-4739-bf82-7a8040a4bb46" />
+
 
