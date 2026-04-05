@@ -10,7 +10,8 @@ EV_ACT_LED_OFF
 ### Eventos salida
 
 EV_LED_XX_ON  
-EV_LED_XX_OFF 
+EV_LED_XX_OFF
+EV_LED_XX_BLINK
 
 ### Estados
 
